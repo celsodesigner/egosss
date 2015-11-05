@@ -1,0 +1,59 @@
+.contact-form form {
+	text-align:left;
+	color:#909090;	
+}
+
+.contact-form fieldset {
+	border:0;
+	padding:30px 0 60px 0;
+}
+
+.contact-form span {
+	display:block;
+	font-size:0.84em;
+	margin:0 0 0 7px;
+}
+
+.contact-form label {
+	display:block;	
+	padding:6px 0;
+}
+
+.required-field {
+	font-size:0.85em;
+	padding:10px 0;
+}
+
+.contact-form input {
+	font-family:'Roboto', sans-serif;
+	padding:10px;
+	width:100%;
+	border:1px solid #DDD;
+}
+
+.contact-form textarea {
+	font-family:'Roboto', sans-serif;
+	font-size:0.9em;
+	padding:6px 15px;
+	border:1px solid #DDD;
+	width:100%;
+}
+
+.contact-form .button {
+	font-size:0.85em;
+	display:inline;
+	color:#fff;
+	cursor:pointer;
+	margin:5px 10px 0 0;
+	padding:8px 0;
+	border-style:none;
+	background-color:#CEA411;
+	width:100px;
+	transition:all 500ms ease 0s;	
+	text-transform:uppercase;
+}
+
+.contact-form .button:hover {
+	background-color:#A88000;
+}
+
