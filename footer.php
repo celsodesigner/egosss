@@ -54,6 +54,7 @@
                     <li><a href="">Minha Conta</a></li>
                     <li><a href="">Fechar Pedido</a></li>
                     <li><a href="">Carrinho de Compras</a></li>
+                    <li><a href="maintenance.php">Manutenção</a></li>
                 </ul>
             </nav>
         </div>  
