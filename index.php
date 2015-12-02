@@ -85,6 +85,20 @@
     </article>
 </section>
 
+<div id="alert-messages">
+    <div class="grid grid-pad">
+    
+        <div class="sucess-message col-1-1">
+            <div class="messages status"><i class="fa fa-info-circle"></i>As configurações dos blocos foram salvas.</div>
+        </div>
+        
+        <div class="error-message col-1-1">
+            <div class="messages status"><i class="fa fa-warning"></i>Ocorreu um erro. Contate o administrador.</div>
+        </div>
+        
+    </div>
+</div>
+
 <?php include('testimonials.php');?>
 
 <?php include('newsletter.php');?>

@@ -1589,6 +1589,40 @@ footer {
 	text-align:left;
 }
 
+/* ALERTS MESSAGES -----------------------------------------------------------------------------------------*/
+
+.sucess-message,
+.error-message {
+	color:#303030;
+	background-color:#fffeb4;	
+	padding:25px 0;
+	border-radius:5px;
+	text-align:center;
+	margin:30px 0;
+}
+
+.sucess-message {
+	background-color:#FFFEBF;	
+	border:1px solid #FED596;
+}
+
+.error-message {
+	background-color:#E6B5B5;	
+	border:1px solid #C04545;
+}
+
+.sucess-message i {
+	margin-right:10px;
+	font-size:1.5em;
+	color:#377C34;
+}
+
+.error-message i {
+	margin-right:10px;
+	font-size:1.4em;
+	color:#C04545;
+}
+
 /* MEDIA QUERIES -------------------------------------------------------------------------------------------*/
 
 /* Menor que 960 */
